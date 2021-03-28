@@ -1,2 +1,2 @@
 # Mystery-Number
-Projet en Java sur le nombre mystère réalisé par Killian Moutinard &amp; Mathursan Mahendrarasan
+Projet final en Java sur une application sur un nombre mystère réalisé par Killian Moutinard et Mathursan Mahendrarasan
