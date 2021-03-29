@@ -1,5 +1,5 @@
 # Mystery-Number
-Projet final en Java sur une application sur un nombre mystère réalisé par Killian Moutinard et Mathursan Mahendrarasan au Paris Ynov Campus en B2 Informatique
+Projet final en Java d'une application sur un nombre mystère réalisé par Killian Moutinard et Mathursan Mahendrarasan au Paris Ynov Campus en B2 Informatique
 
 Après avoir installé le projet :
 
