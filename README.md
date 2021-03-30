@@ -8,3 +8,8 @@ Après avoir installé le projet :
 - Exécutez la commande : 'mvn clean package'
 - Puis la commande : 'java -jar target\mysterynumber_project-0.0.1-SNAPSHOT-jar-with-dependencies.jar'
 - Vous pouvez désormais découvrir notre jeu !
+
+Logiciel nécessaire : 
+ 
+ - Maven : http://maven.apache.org/
+ 
